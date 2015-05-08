@@ -30,5 +30,8 @@
   },
   "devDependencies": {
     "mocha": "*"
+  },
+  "dependencies": {
+    "structured": "^0.1.2"
   }
 }
